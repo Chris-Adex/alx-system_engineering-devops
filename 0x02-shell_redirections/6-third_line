@@ -1,2 +1,2 @@
-#!/bin/bashca
-head -n 3 lacta | tail -n 1
+#!/bin/bash
+cat -n iacta | grep -n 3
