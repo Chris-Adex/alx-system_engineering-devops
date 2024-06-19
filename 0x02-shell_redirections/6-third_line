@@ -1,2 +1,2 @@
 #!/bin/bashca
-cat -n lacta | grep -n 3
+cat lacta | grep -n 3
