@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -RAp | grep / | wc -l
+ls -RAp | grep / | sort | uniq | wc -l
